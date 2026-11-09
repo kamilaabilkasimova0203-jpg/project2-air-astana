@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+nbformat>=5.8
+nbclient>=0.8
+ipykernel>=6.0
